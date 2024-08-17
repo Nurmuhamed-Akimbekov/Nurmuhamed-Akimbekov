@@ -14,5 +14,6 @@
 🔭 I’m currently working on backend development projects<br>
 🌱 I’m currently learning cloud technologies and microservices<br>
 💬 Ask me about Java, Spring, and backend development<br>
-📫 How to reach me: LinkedIn<br> href="https://lnkd.in/d6iKxnky"
+📫 How to reach me: [LinkedIn](https://lnkd.in/d6iKxnky)<br>
 ⚡ Fun fact: I love coding and solving complex problems<br>
+
