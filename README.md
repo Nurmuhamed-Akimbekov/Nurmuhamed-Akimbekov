@@ -6,8 +6,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="50"/>
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Amazon_Web_Services_Logo.svg" height="50"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628742-3030743.png" height="50"/>
 </p>
 
 
