@@ -13,7 +13,7 @@
 🔭 I’m currently working on backend development projects<br>
 🌱 I’m currently learning cloud technologies and microservices<br>
 💬 Ask me about Java, Spring, and backend development<br>
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/nurmukhamed-akimbekov-a5a793316)<br>
+📫 How to reach me: [Link](http://rb.gy/4u4po5)<br>
 ⚡ Fun fact: I love coding and solving complex problems<br>
 
 </p>
