@@ -5,6 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="50"/>
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50"/>
+      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="50"/>
 </p>
 
@@ -16,21 +17,6 @@
 📫 How to reach me: [LinkedIn](https://lnkd.in/d6iKxnky)<br>
 ⚡ Fun fact: I love coding and solving complex problems<br>
 
-## Technologies and Tools:
-<p>
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40"/>
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40"/>
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/>
-    <img src="https://jwt.io/img/logo.svg" height="40"/>
-    <img src="https://www.docker.com/sites/default/files/d8/2023/docker-logo-1.png" height="40"/>
-    <img src="https://circleci.com/docs/assets/img/circleci-logo-dark.svg" height="40"/>
-    <img src="https://www.postman.com/assets/logos/postman-logo-inverted.svg" height="40"/>
-    <img src="https://swagger.io/images/swagger-logo.png" height="40"/>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jira_logo.png/800px-Jira_logo.png" height="40"/>
-    <img src="https://clickup.com/assets/images/logos/clickup-logo.svg" height="40"/>
 </p>
 
 
