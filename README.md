@@ -1,9 +1,9 @@
-## Hi I'm Nurmukhamed Akimbekov
+## Hi, I'm Nurmukhamed Akimbekov
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## Connect with me:
-[![Click here](http://rb.gy/4u4po5)]((http://rb.gy/4u4po5))
+[![Click here](http://rb.gy/4u4po5)](http://rb.gy/4u4po5)
 
 ## Languages and Tools:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -22,8 +22,7 @@
 
 ## About Me:
 - 💻 Passionate backend Java developer from Kyrgyzstan
-- 🔧 I'm currently working on backend development projects
-- 🚀 I'm currently learning cloud technologies and microservices
+- 🔧 Currently working on backend development projects
+- 🚀 Learning cloud technologies and microservices
 - 💬 Ask me about Java, Spring, and backend development
 - ⚡ Fun fact: I love coding and solving complex problems
-
