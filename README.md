@@ -1,9 +1,19 @@
 ## Hi, I'm Nurmukhamed Akimbekov
 
+## About Me:
+- ![💻](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) Passionate backend Java developer from Kyrgyzstan
+- ![🔧](https://media.giphy.com/media/5UJOa3sRsZnKf1inAy/giphy.gif) Currently working on backend development projects
+- ![🚀](https://media.giphy.com/media/1Bgr0VaRnx3pCZBaD7/giphy.gif) Learning cloud technologies and microservices
+- ![💬](https://media.giphy.com/media/l0MYIBRr4ghN2u4ik/giphy.gif) Ask me about Java, Spring, and backend development
+- ![⚡](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif) Fun fact: I love coding and solving complex problems
+
+
+- ## Connect with me:
+[![Connect with me](https://img.shields.io/badge/Click%20here%20to%20connect%20%F0%9F%93%A3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://rb.gy/4u4po5)
+
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-## Connect with me:
-[![Connect with me](https://img.shields.io/badge/Click%20here%20to%20connect%20%F0%9F%93%A3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://rb.gy/4u4po5)
+
 
 
 ## Languages and Tools:
@@ -22,9 +32,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## About Me:
-- 💻 Passionate backend Java developer from Kyrgyzstan
-- 🔧 Currently working on backend development projects
-- 🚀 Learning cloud technologies and microservices
-- 💬 Ask me about Java, Spring, and backend development
-- ⚡ Fun fact: I love coding and solving complex problems
+
