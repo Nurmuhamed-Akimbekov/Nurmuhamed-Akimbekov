@@ -1,11 +1,13 @@
 ## Hi, I'm Nurmukhamed Akimbekov
 
 ## About Me:
-- ![💻](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) Passionate backend Java developer from Kyrgyzstan
-- ![🔧](https://media.giphy.com/media/5UJOa3sRsZnKf1inAy/giphy.gif) Currently working on backend development projects
-- ![🚀](https://media.giphy.com/media/1Bgr0VaRnx3pCZBaD7/giphy.gif) Learning cloud technologies and microservices
-- ![💬](https://media.giphy.com/media/l0MYIBRr4ghN2u4ik/giphy.gif) Ask me about Java, Spring, and backend development
-- ![⚡](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif) Fun fact: I love coding and solving complex problems
+- ![💻](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) **Passionate backend Java developer from Kyrgyzstan**
+- ![🔧](https://media.giphy.com/media/5UJOa3sRsZnKf1inAy/giphy.gif) **Currently working on backend development projects**
+- ![🚀](https://media.giphy.com/media/1Bgr0VaRnx3pCZBaD7/giphy.gif) **Learning cloud technologies and microservices**
+- ![💬](https://media.giphy.com/media/l0MYIBRr4ghN2u4ik/giphy.gif) **Ask me about Java, Spring, and backend development**
+- ![⚡](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif) **Fun fact: I love coding and solving complex problems**
+
+![My Photo](https://your-photo-url.com)
 
 
 - ## Connect with me:
