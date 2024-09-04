@@ -1,6 +1,6 @@
 ## Hi, I'm Nurmukhamed Akimbekov
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with me:
 [![Connect with me](https://img.shields.io/badge/Click%20here%20to%20connect%20%F0%9F%93%A3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://rb.gy/4u4po5)
